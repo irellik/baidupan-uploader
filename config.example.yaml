@@ -1,0 +1,8 @@
+oauth:
+  url_prefix: http://openapi.baidu.com/oauth/2.0/authorize
+  app_id: your app id
+  app_key: your app key
+  secretKey: your secret key
+  redirect_uri: your redirect url
+  access_token: xxx
+  refresh_token: yyy
